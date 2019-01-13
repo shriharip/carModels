@@ -1,5 +1,6 @@
 {
-[
+"carBrands" : {
+  [
   "AstonMartin",
   "Audi",
   "Bentley",
@@ -17,4 +18,5 @@
   "Volvo",
   "VW"
 ];
+}
 }
